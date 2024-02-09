@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147944791241",
+    "project_id": "sky-multi-store-app",
+    "storage_bucket": "sky-multi-store-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147944791241:android:224f4d1fcd4e3bc3b64118",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2JtDjHbCRkabCNvP8YmfObWRt-_Y1jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

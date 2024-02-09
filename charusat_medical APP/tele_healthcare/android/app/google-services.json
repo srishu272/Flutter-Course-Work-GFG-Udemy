@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026080010447",
+    "project_id": "the-tele-healthcare",
+    "storage_bucket": "the-tele-healthcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026080010447:android:3d59729ad4a142814047ba",
+        "android_client_info": {
+          "package_name": "com.example.tele_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBisKQ65SLFN6tPYLpTdPq5MKR55rhRjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

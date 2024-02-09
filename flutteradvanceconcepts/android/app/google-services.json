@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966299210670",
+    "project_id": "flutteradvanceconcepts",
+    "storage_bucket": "flutteradvanceconcepts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966299210670:android:159ae3fa687d5d97a12e3f",
+        "android_client_info": {
+          "package_name": "com.example.flutteradvanceconcepts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_W42auIC01qD5cVNr0Bqmfc61oeutdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
